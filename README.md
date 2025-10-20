@@ -32,12 +32,11 @@
         <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" />
         <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" />
         <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" />
-        <img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="60" />
         <br>
-        <strong>前端技术栈</strong>
+        <strong>工具</strong>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td width="50%" align="center">
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure" />
         <br>
@@ -47,7 +46,7 @@
         <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres" /><br>
         <strong>数据库技术</strong>
       </td>
-    </tr>
+    </tr> -->
   </table>
 </div>
 
