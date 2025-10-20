@@ -70,13 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="250" />
 </div>
 
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HermnLi&theme=radical&hide_border=false&locale=zh_Hans" alt="GitHub连续提交记录" />
-</div>
-
 ## 🏆 GitHub 成就
 
 <div align="center">
