@@ -136,29 +136,6 @@
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
             SHOW_LINES_OF_CODE: "True"
             LOCALE: "zh_CN"
-  ```
-  
-  同样，要启用 GitHub 活动记录，需要创建 `update-readme.yml` 文件：
-  
-  ```yaml
-  name: GitHub 活动记录
-  
-  on:
-    schedule:
-      - cron: '0 */12 * * *' # 每12小时更新一次
-    workflow_dispatch:
-  
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      name: 更新 GitHub 活动记录
-      
-      steps:
-        - uses: actions/checkout@v2
-        - uses: jamesgeorge007/github-activity-readme@master
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ```
 </details>
 
 ## 🔥 最近活动
@@ -166,46 +143,10 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
-## 📝 我的博客文章
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<details>
-  <summary>🔧 博客文章工作流配置</summary>
-  
-  要同步您的博客文章，创建 `.github/workflows/blog-post-workflow.yml` 文件：
-  
-  ```yaml
-  name: 最新博客文章
-  on:
-    schedule:
-      - cron: '0 0 * * *' # 每天执行
-    workflow_dispatch:
-  
-  jobs:
-    update-readme-with-blog:
-      name: 更新博客文章到 README
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v2
-        - uses: gautamkrishnar/blog-post-workflow@master
-          with:
-            feed_list: "https://你的博客RSS地址"
-            max_post_count: 5
-  ```
-</details>
-
 ## 📫 联系方式
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/-邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![微信](https://img.shields.io/badge/-微信-07C160?style=for-the-badge&logo=wechat&logoColor=white)]()
-  [![掘金](https://img.shields.io/badge/-掘金-1E80FF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/)
-  [![CSDN](https://img.shields.io/badge/-CSDN-CA0C16?style=for-the-badge&logo=c&logoColor=white)](https://www.csdn.net/)
-  [![知乎](https://img.shields.io/badge/-知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/)
-  
+  [![Email](https://img.shields.io/badge/-邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1506556298@qq.com)  
 </div>
 
 ## 📚 学习资源
