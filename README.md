@@ -24,7 +24,7 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript图标" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python图标" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java图标" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub图标" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/c++-icon.svg" alt="c++图标" width="65" height="65" />
         <br>
         <strong>主要编程语言</strong>
       </td>
