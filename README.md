@@ -107,37 +107,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HermnLi&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub奖杯" />
 </div>
 
-## 💻 本周编码时间
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<details>
-  <summary>🔧 工作流配置说明</summary>
-  
-  要启用编码时间统计，需要在 `.github/workflows` 目录下创建 `waka-readme.yml` 文件：
-  
-  ```yaml
-  name: Waka Readme
-  
-  on:
-    schedule:
-      - cron: '0 0 * * *' # 每天执行
-    workflow_dispatch:
-  
-  jobs:
-    update-readme:
-      name: Update Readme with Metrics
-      runs-on: ubuntu-latest
-      steps:
-        - uses: anmol098/waka-readme-stats@master
-          with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            GH_TOKEN: ${{ secrets.GH_TOKEN }}
-            SHOW_LINES_OF_CODE: "True"
-            LOCALE: "zh_CN"
-</details>
-
 ## 🔥 最近活动
 
 <!--RECENT_ACTIVITY:start-->
