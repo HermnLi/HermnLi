@@ -70,21 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="250" />
 </div>
 
-## 🚀 技术栈
-
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- 
-  ![微信小程序](https://img.shields.io/badge/-微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white) 
-  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-  
-</div>
 
 ## 📊 GitHub 统计
 
@@ -116,17 +101,6 @@
 
 <div align="center">
   [![Email](https://img.shields.io/badge/-邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1506556298@qq.com)  
-</div>
-
-## 📚 学习资源
-
-<div align="center">
-  
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode-cn.com/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-  [![稀土掘金](https://img.shields.io/badge/-稀土掘金-1E80FF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/)
-  [![InfoQ](https://img.shields.io/badge/-InfoQ-3F51B5?style=for-the-badge&logo=infoq&logoColor=white)](https://www.infoq.cn/)
-  
 </div>
 
 ## 💡 技术格言
