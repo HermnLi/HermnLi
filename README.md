@@ -16,8 +16,6 @@
 
 ## 👨‍💻 关于我
 
-## 👨‍💻 关于我
-
 <div align="center">
   <table border="0">
     <tr>
