@@ -81,19 +81,11 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
-## 📫 联系方式
-
-<div align="center">
-  [![Email](https://img.shields.io/badge/-邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1506556298@qq.com)  
-</div>
-
 ## 💡 技术格言
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="每日格言"/>
 </div>
-
----
 
 <div align="center">
   
