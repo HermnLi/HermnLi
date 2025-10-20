@@ -74,16 +74,7 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermnLi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermnLi&layout=compact&langs_count=8&theme=radical&locale=cn"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HermnLi&theme=radical&hide_border=false&locale=zh_Hans" alt="GitHub连续提交记录" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HermnLi&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 
 ## 🏆 GitHub 成就
