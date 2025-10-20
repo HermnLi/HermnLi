@@ -16,28 +16,63 @@
 
 ## 👨‍💻 关于我
 
-```javascript
-const HermnLi = {
-    代码语言: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
-    专业领域: ["Web全栈开发", "后端架构", "数据库设计", "云原生"],
-    技术栈: {
-        前端: {
-            js框架: ["React", "Vue", "微信小程序"],
-            UI库: ["Ant Design", "Element UI", "TailwindCSS"]
-        },
-        后端: {
-            Node: ["Express", "Koa", "NestJS"],
-            Python: ["Django", "FastAPI"],
-            Java: ["Spring Boot", "MyBatis"]
-        },
-        数据库: ["MySQL", "MongoDB", "Redis", "PostgreSQL"],
-        运维工具: ["Docker", "Kubernetes", "Jenkins", "阿里云", "腾讯云"],
-        开发工具: ["Git", "VSCode", "WebStorm", "IDEA"]
-    },
-    目前专注: "微服务架构与前端工程化",
-    座右铭: "学如逆水行舟，不进则退"
-};
-```
+## 👨‍💻 关于我
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript图标" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript图标" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python图标" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java图标" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub图标" width="65" height="65" />
+        <br>
+        <strong>主要编程语言</strong>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60" />
+        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" />
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" />
+        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" />
+        <img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="60" />
+        <br>
+        <strong>前端技术栈</strong>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure" />
+        <br>
+        <strong>DevOps 工具链</strong>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres" /><br>
+        <strong>数据库技术</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🚀 专业领域</h3>
+  <img src="https://img.shields.io/badge/Web全栈开发-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/后端架构-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/数据库设计-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/云原生-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</div>
+
+<div align="center">
+  <h3>💡 座右铭</h3>
+  <blockquote>
+    <p><i>"学如逆水行舟，不进则退"</i></p>
+  </blockquote>
+  <h4>目前专注: 微服务架构与前端工程化</h4>
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="250" />
+</div>
 
 ## 🚀 技术栈
 
