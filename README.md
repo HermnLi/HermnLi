@@ -54,8 +54,8 @@
   <h3>🚀 专业领域</h3>
   <img src="https://img.shields.io/badge/吃饭-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/睡觉-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/打游戏-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/云原生-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/打战地-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/抽空上个班-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 <div align="center">
@@ -63,7 +63,7 @@
   <blockquote>
     <p><i>"学如逆水行舟，不进则退"</i></p>
   </blockquote>
-  <h4>目前专注: 微服务架构与前端工程化</h4>
+  <h4>目前专注: 熬夜打游戏</h4>
 </div>
 
 <div align="center">
@@ -77,18 +77,12 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![微信小程序](https://img.shields.io/badge/-微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+ 
+  ![微信小程序](https://img.shields.io/badge/-微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white) 
   
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
   
 </div>
 
