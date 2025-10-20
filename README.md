@@ -52,9 +52,9 @@
 
 <div align="center">
   <h3>🚀 专业领域</h3>
-  <img src="https://img.shields.io/badge/Web全栈开发-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/后端架构-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/数据库设计-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/吃饭-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/睡觉-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/打游戏-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/云原生-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
